@@ -6,7 +6,7 @@
         'database11.mysql.database.azure.com', // Host
         'ramzan',                   // Username
         'Ramzan123@',                       // Password
-        'assignment4'                   // Database name
+        'my_database'                   // Database name
     );
     
     // Debugging the database connection object
